@@ -8,6 +8,8 @@
 
 将 Cookie 冒号后面的内容复制到 cookie.txt 中
 
+## 2.获取弹幕
+
 点进直播的详情页，如图
 
 ![](https://blog.lseng.cc/wp-content/uploads/2022/02/m3u8_download_example1.jpg)
